@@ -1,3 +1,5 @@
+### NOTE: This repository is now no longer in use. See https://github.com/icsm-au/icsm-vocabs
+
 ![](style/logo-invert.png)
 
 # ICSM Vocabularies
